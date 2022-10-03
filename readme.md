@@ -1,5 +1,5 @@
 
-### Less is more —
+## Less is more
 
 Contacts:
 [linkedin](https://www.linkedin.com/in/jimwellf/)
