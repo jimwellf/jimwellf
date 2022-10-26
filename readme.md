@@ -2,7 +2,7 @@
 ### Less is more
 
 Contacts:
-[linkedin](https://www.linkedin.com/in/jimwellf/)
+[linkedin/jimwellf](https://www.linkedin.com/in/jimwellf/)
 <!--
 **jimwellf/jimwellf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
