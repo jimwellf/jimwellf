@@ -1,7 +1,7 @@
 
-## Software Product Developer.
-+3 exp in building fintech level softawre. (commits are hidden)
-currently building an AI tool in stealth.
+# Software Product Developer
+- +3 exp in building fintech level software. (contributions are vpn hidden)
+- currently building an AI app in stealth.
 
 <!--
 **jimwellf/jimwellf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
