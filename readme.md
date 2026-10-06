@@ -1,6 +1,6 @@
 
 #### Software Product Developer
-- +3 exp in building fintech level software. (contributions are vpn hidden)
+- +3 exp in building fintech level software. (contributions are hidden)
 - currently building an AI app in stealth.
 
 <!--
